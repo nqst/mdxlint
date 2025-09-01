@@ -5,7 +5,8 @@
 [![npm version](https://img.shields.io/npm/v/mdxlint)](https://www.npmjs.com/package/mdxlint)
 [![npm downloads](https://img.shields.io/npm/dm/mdxlint)](https://www.npmjs.com/package/mdxlint)
 
-<img alt="" src="./logo.svg">
+<br>
+<img src="./logo.svg" width="220" alt="">
 
 A CLI to lint and format [MDX](https://mdxjs.com) content.
 
